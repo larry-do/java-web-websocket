@@ -1,6 +1,7 @@
 package websocket;
 
-import javax.websocket.Session;
+import jakarta.websocket.Session;
+
 import java.util.HashSet;
 import java.util.Set;
 

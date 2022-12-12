@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Websocket:Exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Websocket_Exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/web/WEB-INF" />
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-web-websocket" />
+        </element>
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/web/index.jsp" />
+    </root>
+  </artifact>
+</component>

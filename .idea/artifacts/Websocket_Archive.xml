@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Websocket:Archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/Websocket_Archive</output-path>
+    <root id="archive" name="Websocket_Archive.war">
+      <element id="artifact" artifact-name="Websocket" />
+    </root>
+  </artifact>
+</component>
